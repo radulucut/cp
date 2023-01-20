@@ -1,3 +1,5 @@
+// https://codeforces.com/contest/59/problem/A
+
 package main
 
 import (
